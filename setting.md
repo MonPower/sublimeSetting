@@ -15,7 +15,7 @@ Font
  - Font size: "16"
  - Font face: "Monaca"
 
- Code
- ------------------
-  - "trim_trailing_white_space_on_save": true
+Code
+------------------
+ - "trim_trailing_white_space_on_save": true
 
